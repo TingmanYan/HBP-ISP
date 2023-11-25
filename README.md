@@ -1,4 +1,4 @@
-# Hierarchical Belief Propagation on Image Segmentation Pyramid
+# Hierarchical Belief Propagation on Image Segmentation Pyramid for Stereo Matching
 # Workflow
 ![HBP-ISP](workflow.png)
 # Dependency
