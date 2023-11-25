@@ -20,7 +20,7 @@ bash test_stereo_hbp_isp.sh
 # Inference time on a NVIDIA Titan Xp GPU
 ![Runtime](runtime.png)
 
-If you find this work useful, please cite the our [[paper](https://ieeexplore.ieee.org/document/10198437)] and the superpixel [[paper](https://ieeexplore.ieee.org/document/9819438)] 
+If you find this work useful, please cite this [[paper](https://ieeexplore.ieee.org/document/10198437)] and the superpixel [[paper](https://ieeexplore.ieee.org/document/9819438)] 
 ```
 @ARTICLE{10198437,
   author={Yan, Tingman and Yang, Xilian and Yang, Genke and Zhao, Qunfei},
