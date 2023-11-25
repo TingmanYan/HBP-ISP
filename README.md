@@ -1,6 +1,6 @@
 # Hierarchical Belief Propagation on Image Segmentation Pyramid
-# Overview
-![HBP-ISP](overview.png)
+# Workflow
+![HBP-ISP](workflow.png)
 # Dependency
 - CUDA >= 6.0
 - OpenCV >= 3.0
